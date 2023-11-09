@@ -1,4 +1,4 @@
-<h1 align="center"> AHG Links </h1>
+<h1 align="center"> AHG Links :cat: </h1>
 
 <p align="center">
 Projeto realizado através do curso gratuito da RocketSeat
