@@ -34,6 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O AHG Links é um agregador de links para usar como meio de informação online para o projeto AHG.
 
+## :pencil: Aprendizados
+
+Com esse projeto, aprendi não só como utilizar as tecnologias ditas acima, mas também a personalizar os códigos HTML e CSS e designs no Figma. Consegui utilizar esses conhecimentos para resolver problemas na prática, me levando a construir um projeto personalizado que atenda minha necessidade real.
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/uvcJe7ERr9hlxXZqTOX588/AHG-DRAFT?type=design&node-id=7%3A2&mode=design&t=MvQ9bvNIba745QmZ-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
